@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Namecat;
+    src: url(Fuentes/Namecat.otf);
+    
+    
+}
+@font-face {
+    font-family: Flipahaus;
+    src: url(Fuentes/Flipahaus-V2.otf);
+}
+
+body {
+   
+
+
+
+background: #6BDDCC;
+background: linear-gradient(135deg, #6BDDCC, #AA7C80);
+}
+.logo{
+    display: flex;
+    margin-left:auto; 
+    width: 200px;
+    height: 22%;
+    z-index: 2;
+    position: relative;
+    display: block;
+
+}
+
+.portada{
+    overflow: hidden;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 35px;    
+    text-align: center;
+    line-height: 1.5;
+}
+h1{
+    font-family: Namecat;
+}
+ul{
+    list-style-type: none;
+    font-family: flipahaus;
+}
+strong{
+    font-size: 43px;
+}
+em{
+    font-size: 25px;
+}
+.contenedor{
+    display:flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+ .materias {
+    margin: 7px;
+    width: 120px;
+    height:120px;
+    object-position: 50%;
+}

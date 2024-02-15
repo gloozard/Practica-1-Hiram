@@ -1,0 +1,61 @@
+/*cuerpo del documento*/
+body{
+    background-color: rgb(240, 223, 191);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+
+/*tabla*/
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+caption{
+    text-align: left;
+    font-size: 20px;
+    
+}
+thead{
+    font-size: 23px;
+    background-color: rgba(19, 189, 215, 0.753);
+    text-align: center;
+}
+tbody{
+    background-color: rgb(221, 250, 140);
+}
+/*horas*/
+th.Hora{
+    font-weight: bold;    
+    font-size: 20px;
+    background-color: rgb(162, 241, 207);
+}
+/*bordes*/
+td,th{
+    width: 150px;
+    height: 70px;
+    border: 1px solid rgb(49, 189, 205)
+}
+td{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:  13px;
+    text-align: center;
+    
+}
+tfoot {
+    background-color: rgba(19, 189, 215, 0.753);
+    text-align: left;
+    font-size: 18px;
+    font-family:monospace;
+    
+    
+}
+.Materias{
+    font-weight: bold;    
+    font-size: 14px;
+    background-color: rgb(162, 241, 207);}

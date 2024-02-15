@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(233, 252, 164);
+}
+.Header{
+    background-color: rgb(188, 245, 216);
+    margin-left: auto;
+    margin-right: auto;
+    height: 230px;
+    width: auto;
+
+}
+.Preguntas{
+    background-color: rgb(188, 245, 216);
+}
+    
+input{
+    background-color:rgb(229, 193, 243);
+}
+button{
+    height: 30px;
+    font-size: medium;
+    font-style: oblique;
+    border-color: black ;
+}
