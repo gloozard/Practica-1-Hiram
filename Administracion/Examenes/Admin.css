@@ -7,9 +7,12 @@ body{
     margin-right: auto;
     height: 230px;
     width: auto;
-
+    padding-left: 20px;
+    padding-bottom: 25px;
 }
 .Preguntas{
+    padding-left: 20px;
+    padding-bottom: 25px;
     background-color: rgb(241, 253, 171);
 }
     
